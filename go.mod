@@ -4,7 +4,7 @@ go 1.24
 
 require (
 	github.com/caddyserver/caddy/v2 v2.9.1
-	github.com/constXife/go-authcrunch v0.0.0-20260101201157-5767ef75ae01
+	github.com/constXife/go-authcrunch v0.0.0-20260101222523-abb542a3f566
 	github.com/google/go-cmp v0.7.0
 	github.com/google/uuid v1.6.0
 	github.com/greenpau/caddy-trace v1.1.13
