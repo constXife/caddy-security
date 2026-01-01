@@ -125,6 +125,8 @@ github.com/constXife/go-authcrunch v0.0.0-20260101175851-7f272086dc08 h1:UuNTOzo
 github.com/constXife/go-authcrunch v0.0.0-20260101175851-7f272086dc08/go.mod h1:bMHQckz0ihPNpqZjDDIOYyFxwaVyAXTIYmx1HZUn7Gw=
 github.com/constXife/go-authcrunch v0.0.0-20260101184750-76f83dbc84f3 h1:Oa9I1AK9UKgD685dUEcSbHhZZY/MWNx4pIEoDfTYeLg=
 github.com/constXife/go-authcrunch v0.0.0-20260101184750-76f83dbc84f3/go.mod h1:bMHQckz0ihPNpqZjDDIOYyFxwaVyAXTIYmx1HZUn7Gw=
+github.com/constXife/go-authcrunch v0.0.0-20260101190417-554b01024d30 h1:FBT4+Zcip5mHIC41hP+NHmdow7DUizX4V6sBfHFwZj8=
+github.com/constXife/go-authcrunch v0.0.0-20260101190417-554b01024d30/go.mod h1:bMHQckz0ihPNpqZjDDIOYyFxwaVyAXTIYmx1HZUn7Gw=
 github.com/coreos/etcd v3.3.10+incompatible/go.mod h1:uF7uidLiAD3TWHmW31ZFd/JWoc32PjwdhPthX9715RE=
 github.com/coreos/go-etcd v2.0.0+incompatible/go.mod h1:Jez6KQU2B/sWsbdaef3ED8NzMklzPG4d5KIOhIy30Tk=
 github.com/coreos/go-oidc/v3 v3.13.0 h1:M66zd0pcc5VxvBNM4pB331Wrsanby+QomQYjN8HamW8=
