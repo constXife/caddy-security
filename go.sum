@@ -123,6 +123,8 @@ github.com/chzyer/test v1.0.0/go.mod h1:2JlltgoNkt4TW/z9V/IzDdFaMTM2JPIi26O1pF38
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/constXife/go-authcrunch v0.0.0-20260101175851-7f272086dc08 h1:UuNTOzo8xRU9XL5uygn1kgshM7lQ3SP0++pSpuufqRA=
 github.com/constXife/go-authcrunch v0.0.0-20260101175851-7f272086dc08/go.mod h1:bMHQckz0ihPNpqZjDDIOYyFxwaVyAXTIYmx1HZUn7Gw=
+github.com/constXife/go-authcrunch v0.0.0-20260101184750-76f83dbc84f3 h1:Oa9I1AK9UKgD685dUEcSbHhZZY/MWNx4pIEoDfTYeLg=
+github.com/constXife/go-authcrunch v0.0.0-20260101184750-76f83dbc84f3/go.mod h1:bMHQckz0ihPNpqZjDDIOYyFxwaVyAXTIYmx1HZUn7Gw=
 github.com/coreos/etcd v3.3.10+incompatible/go.mod h1:uF7uidLiAD3TWHmW31ZFd/JWoc32PjwdhPthX9715RE=
 github.com/coreos/go-etcd v2.0.0+incompatible/go.mod h1:Jez6KQU2B/sWsbdaef3ED8NzMklzPG4d5KIOhIy30Tk=
 github.com/coreos/go-oidc/v3 v3.13.0 h1:M66zd0pcc5VxvBNM4pB331Wrsanby+QomQYjN8HamW8=
