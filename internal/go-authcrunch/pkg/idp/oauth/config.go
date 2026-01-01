@@ -63,6 +63,9 @@ type Config struct {
 	// The URL to OAuth 2.0 metadata related to your Custom Authorization Server.
 	MetadataURL string `json:"metadata_url,omitempty" xml:"metadata_url,omitempty" yaml:"metadata_url,omitempty"`
 
+	// The URL to OAuth 2.0 JWKS keys.
+	JwksURL string `json:"jwks_url,omitempty" xml:"jwks_url,omitempty" yaml:"jwks_url,omitempty"`
+
 	// The regex filters for user groups extracted via IdP API.
 	UserGroupFilters []string `json:"user_group_filters,omitempty" xml:"user_group_filters,omitempty" yaml:"user_group_filters,omitempty"`
 	// The regex filters for user orgs extracted via IdP API.
@@ -283,6 +286,9 @@ func (cfg *Config) Validate() error {
 	case "nextcloud":
 	case "discord":
 	default:
+		if cfg.MetadataDiscoveryDisabled && cfg.JwksURL == "" {
+			return errors.ErrIdentityProviderConfig.WithArgs("jwks_url not found")
+		}
 		if len(cfg.JwksKeys) > 0 && cfg.AuthorizationURL != "" && cfg.TokenURL != "" {
 			for kid, fp := range cfg.JwksKeys {
 				if _, err := NewJwksKeyFromRSAPublicKeyPEM(kid, fp); err != nil {
