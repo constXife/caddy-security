@@ -1,0 +1,50 @@
+# By adding your name, email, and company below, you I hereby consent to the
+# Corporate CLA Consent provided in assets/cla/corporate_cla.md.
+#
+#- name: John Smith
+#  email: foo@bar.com
+#  company: Contoso Inc.
+#
+- name: Samuel Hitz
+  email: hitz@anapaya.net
+  company: Anapaya Systems AG
+- name: Lukas Vogel
+  email: vogel@anapaya.net
+  company: Anapaya Systems AG
+- name: Thomas Ottenhus
+  email: ottenhus@uni-mainz.de
+  company: Johannes Gutenberg University Mainz
+- name: Moritz Schlarb
+  email: schlarbm@uni-mainz.de
+  company: Johannes Gutenberg University Mainz
+
+# By adding your name and email below, you I hereby consent to the Individual
+# CLA provided in assets/cla/individual_cla.md.
+#
+#- name: John Smith
+#  email: foo@bar.com
+- name: Lennart Schoch
+  email: lennartschoch@protonmail.com
+- name: Antonio Cunha
+  email: aj.20.cunha@gmail.com
+- name: Pedro Flores
+  email: pedro_flores_16@hotmail.com
+- name: Daniel Branco
+  email: dbranco@gmail.com
+- name: Paula Vieira
+  email: paulaavvieira@hotmail.com
+- name: Sergiu Cozma
+  email: sergiucozma1994@gmail.com
+- name: Riccardo Piola
+  email: riccardopiola@live.it
+- name: Nick Gregory
+  email: ng-cla@openenterprise.co.uk
+- name: Michael Ellis
+  email: Michael94Ellis@gmail.com
+- name: Peter Oettig
+  email: oss-cla@oettig.de
+- name: Phil Porada
+  email: philporada@gmail.com
+- name: Simon Ledoux
+  email: simon@simon511000.fr
+
