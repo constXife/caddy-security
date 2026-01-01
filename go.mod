@@ -34,7 +34,7 @@ require (
 	github.com/cespare/xxhash v1.1.0 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/chzyer/readline v1.5.1 // indirect
-	github.com/constXife/go-authcrunch v0.0.0-20260101172631-bea64664db03 // indirect
+	github.com/constXife/go-authcrunch v0.0.0-20260101174051-0d2abb06fc5a // indirect
 	github.com/coreos/go-oidc/v3 v3.13.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.6 // indirect
 	github.com/crewjam/httperr v0.2.0 // indirect
