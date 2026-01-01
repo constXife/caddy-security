@@ -19,9 +19,9 @@ import (
 	"encoding/json"
 
 	"github.com/caddyserver/caddy/v2"
-	"github.com/greenpau/go-authcrunch"
-	"github.com/greenpau/go-authcrunch/pkg/authn"
-	"github.com/greenpau/go-authcrunch/pkg/authz"
+	"github.com/constXife/go-authcrunch"
+	"github.com/constXife/go-authcrunch/pkg/authn"
+	"github.com/constXife/go-authcrunch/pkg/authz"
 
 	"go.uber.org/zap"
 )

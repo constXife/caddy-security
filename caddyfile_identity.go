@@ -18,8 +18,8 @@ import (
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
 	"github.com/greenpau/caddy-security/pkg/util"
-	"github.com/greenpau/go-authcrunch"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/constXife/go-authcrunch"
+	"github.com/constXife/go-authcrunch/pkg/errors"
 )
 
 const (

@@ -4,10 +4,10 @@ go 1.24
 
 require (
 	github.com/caddyserver/caddy/v2 v2.9.1
+	github.com/constXife/go-authcrunch v0.0.0-20260101171614-c86a38d42274
 	github.com/google/go-cmp v0.7.0
 	github.com/google/uuid v1.6.0
 	github.com/greenpau/caddy-trace v1.1.13
-	github.com/greenpau/go-authcrunch v1.1.7
 	github.com/tidwall/gjson v1.17.1
 	go.uber.org/zap v1.27.0
 )
@@ -168,5 +168,3 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	howett.net/plist v1.0.1 // indirect
 )
-
-replace github.com/greenpau/go-authcrunch => ./internal/go-authcrunch

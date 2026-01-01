@@ -21,9 +21,9 @@ import (
 
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/greenpau/go-authcrunch/pkg/authn"
-	"github.com/greenpau/go-authcrunch/pkg/authn/cookie"
-	cfgutil "github.com/greenpau/go-authcrunch/pkg/util/cfg"
+	"github.com/constXife/go-authcrunch/pkg/authn"
+	"github.com/constXife/go-authcrunch/pkg/authn/cookie"
+	cfgutil "github.com/constXife/go-authcrunch/pkg/util/cfg"
 )
 
 func parseCaddyfileAuthPortalCookie(h *caddyfile.Dispenser, repl *caddy.Replacer, portal *authn.PortalConfig, rootDirective string, args []string) error {
