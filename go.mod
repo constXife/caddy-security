@@ -4,7 +4,6 @@ go 1.24
 
 require (
 	github.com/caddyserver/caddy/v2 v2.9.1
-	github.com/constXife/go-authcrunch v0.0.0-20260101171614-c86a38d42274
 	github.com/google/go-cmp v0.7.0
 	github.com/google/uuid v1.6.0
 	github.com/greenpau/caddy-trace v1.1.13
@@ -35,6 +34,7 @@ require (
 	github.com/cespare/xxhash v1.1.0 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/chzyer/readline v1.5.1 // indirect
+	github.com/constXife/go-authcrunch v0.0.0-20260101172631-bea64664db03 // indirect
 	github.com/coreos/go-oidc/v3 v3.13.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.6 // indirect
 	github.com/crewjam/httperr v0.2.0 // indirect
